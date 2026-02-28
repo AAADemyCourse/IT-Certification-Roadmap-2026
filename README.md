@@ -90,6 +90,6 @@ This repository aims to:
 
 For more certification roadmaps, study plans, and preparation insights across cloud, cybersecurity, AI, and networking, you can visit:
 
-🌐 (https://www.aaademy.com/it_certification_roadmap_2026.html)
+🌐 https://www.aaademy.com/it_certification_roadmap_2026.html
 
 We continuously share updated certification guidance to support professional growth.
