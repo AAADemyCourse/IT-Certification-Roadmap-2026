@@ -89,13 +89,3 @@ This repository aims to:
 
 This roadmap is for educational and informational purposes only.  
 All certification names belong to their respective vendors.
-
----
-
-## Topics
-
-#it-certification  
-#career-development  
-#cybersecurity  
-#cloud-learning  
-#ai-learning
