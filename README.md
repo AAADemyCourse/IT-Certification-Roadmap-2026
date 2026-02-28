@@ -20,7 +20,7 @@ This roadmap is based on industry certification progressions from entry level to
 
 ## Roadmap Image
 
-![IT Certification Roadmap 2026](./your-image-name.jpg)
+![IT Certification Roadmap 2026](./IT-Certification-Roadmap-2026.jpg)
 
 ---
 
