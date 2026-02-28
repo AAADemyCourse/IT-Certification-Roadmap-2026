@@ -85,7 +85,3 @@ This repository aims to:
 
 ---
 
-## Disclaimer
-
-This roadmap is for educational and informational purposes only.  
-All certification names belong to their respective vendors.
