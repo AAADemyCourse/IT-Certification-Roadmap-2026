@@ -84,7 +84,6 @@ This repository aims to:
 - Encourage open discussion about certification trends
 
 ---
----
 
 ## Additional Resources
 
