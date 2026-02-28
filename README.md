@@ -84,4 +84,12 @@ This repository aims to:
 - Encourage open discussion about certification trends
 
 ---
+---
 
+## Additional Resources
+
+For more certification roadmaps, study plans, and preparation insights across cloud, cybersecurity, AI, and networking, you can visit:
+
+🌐 [https://yourwebsite.com](https://www.aaademy.com/it_certification_roadmap_2026.html)
+
+We continuously share updated certification guidance to support professional growth.
